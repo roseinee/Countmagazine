@@ -30,6 +30,7 @@ body {
     color: #333;
     line-height: 1;
     font-family: 'Nanum Myeongjo', serif;
+    min-width: 1920px;
 }
 /* ✨** .main_visual **✨ */
 .main_visual {
